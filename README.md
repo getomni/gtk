@@ -2,7 +2,7 @@
 
 > A dark theme for [GTK](https://www.gtk.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 This theme provides support for GTK-3 and GTK-2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
